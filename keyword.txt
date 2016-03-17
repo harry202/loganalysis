@@ -1,0 +1,37 @@
+#errors in console logs
+
+fatal: Couldn't find remote ref
+fatal: The remote end hung up unexpectedly
+cmt_startup.env: No such file or directory
+fatal: Not a git repository:
+[Errno 2] No such file or directory:
+Finished: FAILURE
+WARNING failed to update cache, msg: Bad response from rpc host
+ERROR Finished building
+HTTP Error 404: Not Found
+ERROR Failed to send request
+return code: 500
+[Errno socket error] [Errno 110] Connection timed out
+Compile    ---    Failed to execute command
+Compile    ---    [PROMOTION]
+font color="red"
+checking result is
+ERROR rtcode not 0
+return code "512"
+ERROR Failed to check target to server
+ERROR: Connection was broken
+java.io.IOException: Unexpected termination of the channel
+ERROR: Publisher 'Archive the artifacts' failed
+No workspace found, files cannot be copied
+null null failed
+cp: cannot stat
+svn: E170000: URL
+sed: can't read
+tar: Exiting with failure status due to previous errors
+KeyError: '
+Build step 'Execute shell' marked build as failure
+svn: E170013: Unable to connect to a repository
+urlopen error [Errno -3] Temporary failure in name resolution
+Build timed out
+Build was aborted
+CRITICAL Failed to fetch user specified subsystems
