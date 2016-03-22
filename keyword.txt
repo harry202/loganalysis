@@ -31,5 +31,4 @@ Build step 'Execute shell' marked build as failure
 svn: E170013: Unable to connect to a repository
 urlopen error [Errno -3] Temporary failure in name resolution
 Build timed out
-Build was aborted
-CRITICAL Failed to fetch user specified subsystems
+
